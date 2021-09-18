@@ -1,5 +1,10 @@
 @import "{{ site.theme }}";
 
+.wrapper {
+  width:1110px;
+  margin:0 auto;
+}
+
 header {
   width:210px;
   float:left;
