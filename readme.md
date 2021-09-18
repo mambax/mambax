@@ -1,8 +1,8 @@
-Hi, I am _Dominik_ 👨🏽‍💻
+Hi, I am Dominik 👨🏽‍💻
 
 - 🇨🇭 I live and work in Zürich
 - 👨🏽‍💻 I am into code and DevOps (this is why my resume is code as well)
-- 💻 I currently work [@SAP](https://github.com/SAP) on [SAP Field Service Management](https://www.sap.com/products/field-service-management.html) as Engineering Principal
+- 💻 I currently work [@SAP](https://github.com/SAP) on [SAP Field Service Management](https://www.sap.com/products/field-service-management.html) as Head of Engineering
 - 👨🏽‍🏫 I currently teach [Software Engineering](https://github.com/nds-swe) [@ABB Technikerschule](https://www.abbts.ch/nachdiplomstudien/software-engineering/)
 - 🎒 I graduated 2015 from the _University of Applied Sciences Northwestern Switzerland_ with a BSc in Computer Science
 - ⚥&nbsp;&nbsp;I prefer _he/him_
@@ -17,7 +17,7 @@ Hi, I am _Dominik_ 👨🏽‍💻
 
 ## 💻 Experience
 ### [sap.com](https://www.sap.com)
-#### Engineering Principal [SAP Field Service Management](https://www.sap.com/products/field-service-management.html)
+#### Head of Engineering [SAP Field Service Management](https://www.sap.com/products/field-service-management.html)
 <small>_APRIL 2020 - PRESENT, ZÜRICH & REMOTE_</small>
 
 asdfsdfasdf
@@ -118,7 +118,7 @@ I live by [the DevOps handbook](https://www.amazon.com/DevOps-Handbook-World-Cla
 
 <br/>
 
-## 🏖 Outside the office
+## 🏖 Off-premise
 
 - 🧘🏽‍♂️ Yoga & Meditation
 - 🤝🏿 Mentorship for the [Swiss Red Cross](https://www.redcross.ch/de/jugend)
