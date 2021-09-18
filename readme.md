@@ -79,4 +79,4 @@ I look to contribute and learn more from the OpenSource community wherever I can
 
 ## 🙊 References
 
-On request, [contact me](#contact). You can also find some recommendation on [LinkedIn](https://www.linkedin.com/in/meyerdominik/).
+References are provided upon request, [contact me](#contact) for it. You can also find some recommendation on [LinkedIn](https://www.linkedin.com/in/meyerdominik/).
