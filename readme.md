@@ -7,14 +7,15 @@ Hi, I am _Dominik_ 👨🏽‍💻
 - 🎒 I graduated 2015 from the _University of Applied Sciences Northwestern Switzerland_ with a BSc in Computer Science
 - ⚥&nbsp;&nbsp;I prefer _he/him_
 
+<br/>
+
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meyerdominik/)&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mambax)&nbsp;&nbsp;&nbsp;[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dominikmey3r)&nbsp;&nbsp;&nbsp;[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2709980/m4mbax)
 
+<br/>
+
 ## 💻 Experience
-
-What I am or have been working on.
-
 ### [sap.com](https://www.sap.com)
 #### Engineering Principal [SAP Field Service Management](https://www.sap.com/products/field-service-management.html)
 <small>_APRIL 2020 - PRESENT, ZÜRICH & REMOTE_</small>
@@ -68,6 +69,8 @@ I worked on a patient aggregated web application with AngularJS, Web technologie
 
 My apprenticeship as computer scientist, subject area ‘Systems technology’. I also worked in first-level-support, in systems technology, at the helpdesk and for the application support.
 
+<br/>
+
 ## 📽 Projects
 
 |Project|Content|My role
@@ -83,8 +86,9 @@ Many of my contributions go towards the [material I create for teaching](https:/
 
 I look to contribute and learn more from the OpenSource community wherever I can!
 
-## 🛠 Skills
+<br/>
 
+## 🛠 Skills
 ### 🔧 _Soft_
 Cultural transformation is a passion of mine since my early days. I am a developer advocate and strongly believe into [Our Iceberg Is Melting](https://www.amazon.com/Our-Iceberg-Melting-Succeeding-Conditions/dp/0399563911). Every day I try to learn and improve myself and my surroundings adhering to the [the 15 Commitments of Conscious Leadership](https://conscious.is/15-commitments). My strengths in these areas are:
 
@@ -93,6 +97,8 @@ Cultural transformation is a passion of mine since my early days. I am a develop
 - **Restorator**: I figure out what's wrong and resolve it
 - **Individualiser**: I figure out how different people can work together
 - **Activator**: I turn thoughts into action
+
+<br/>
 
 ### 🔨 _Hard_
 I live by [the DevOps handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002) and thus my hard skills are shaped around it.
@@ -110,6 +116,8 @@ I live by [the DevOps handbook](https://www.amazon.com/DevOps-Handbook-World-Cla
 
 <small>Why are _Release_ and _Deploy_ flipped in order? Ask me 😉</small>
 
+<br/>
+
 ## 🏖 Outside the office
 
 - 🧘🏽‍♂️ Yoga & Meditation
@@ -120,6 +128,8 @@ I live by [the DevOps handbook](https://www.amazon.com/DevOps-Handbook-World-Cla
 - 🧗🏽‍♂️ Sports in general
 - 🍚 Cooking alone or as team
 - 🍷 Glass of wine with friends
+
+<br/>
 
 ## 🙊 References
 
