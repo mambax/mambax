@@ -3,25 +3,12 @@
 
 @import "{{ site.theme }}";
 
- 
-body {
-  background-color: #ff0000;
-  padding:50px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#727272;
-  font-weight:400;
-}
-
 .wrapper {
-  width:1110px;
+  width:1200px;
+  // left side is 270
+  // 1200-270 = 930
+  // 30px free room
   margin:0 auto;
-}
-
-header {
-  width:210px;
-  float:left;
-  position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
 }
 
 section {
