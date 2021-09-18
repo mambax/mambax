@@ -63,10 +63,9 @@ My apprenticeship as computer scientist, subject area ‘Systems technology’, 
 |[`nds-swe`](https://nds-swe.github.io/swdt/)|The [After-Diploma Study](https://www.abbts.ch/nachdiplomstudien/software-engineering/) in Software Engineering transforms individuals from any industry into capable Junior DevOps engineers.|I am the sole maintainer, leveraging Docusaurus, Reveal.JS and Java to live by example and slowly migrating all my teacher material to code - 👋🏽 PowerPoint and Word.
 |JavaFX HeatMap API|Bachelor thesis - visualisation of interactions and user behaviour with heatmaps|User Experience, JavaFX
 |Computer Aided Tournament Support |Preparation for thesis - tournament support software to replace individual schedules|Java, ZigBee Protocol, Arduino, Web technologies
-|new company appearance web||
 
 ### 📖 OpenSource
-[![Dominiks's GitHub stats](https://github-readme-stats.vercel.app/api?username=mambax&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Dominiks's GitHub stats](https://github-readme-stats.vercel.app/api?username=mambax&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;[![Source Karma badge for @mambax](https://sourcekarma-og.vercel.app/api/mambax/github)](https://sourcekarma.vercel.app/mambax)
 
 Many of my contributions go towards the [material I create for teaching](https://github.com/nds-swe).
 
