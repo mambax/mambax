@@ -1,10 +1,9 @@
 Hi, I am _Dominik_ 👨🏽‍💻
 
-- 🧑🏽‍🍼 I was born in Switzerland and just crossed the thirty landmark
 - 🇨🇭 I live and work in Zürich
 - 👨🏽‍💻 I am into code and DevOps (this is why my resume is code as well)
 - 🎒 I graduated 2015 from the _University of Applied Sciences Northwestern Switzerland_ with a BSc in Computer Science
-- 👷🏽‍♂️ I currently work [@SAP](https://github.com/SAP) in [SAP Field Service Management](https://www.sap.com/products/field-service-management.html)
+- 👷🏽‍♂️ I currently work [@SAP](https://github.com/SAP) on [SAP Field Service Management](https://www.sap.com/products/field-service-management.html) as Engineering Principal
 - 👨🏽‍🏫 I currently teach [Software Engineering](https://github.com/nds-swe) [@ABB Technikerschule](https://www.abbts.ch/nachdiplomstudien/software-engineering/)
 - ⚥&nbsp;&nbsp;I prefer _he/him_
 
@@ -17,7 +16,7 @@ Hi, I am _Dominik_ 👨🏽‍💻
 What I am or have been working on.
 
 ### [sap.com](https://www.sap.com)
-#### Head of Engineering for [SAP Field Service Management](https://www.sap.com/products/field-service-management.html)
+#### Engineering Principal [SAP Field Service Management](https://www.sap.com/products/field-service-management.html)
 <small>_APRIL 2020 - PRESENT, ZÜRICH & REMOTE_</small>
 
 asdfsdfasdf
@@ -27,21 +26,31 @@ asdfsdfasdf
 
 Supporting the customer end to end was our vision with the new product I was hired for to develop. Me and two partners were in charge of three teams that should link different products in an orchestration layer, allowing customers to build workflows across applications - retaining the context. With a reorganization, the vision found its end but I left an impression and was encouraged to take my next role.
 
+<br/>
+
 ### [biovision.ch](https://www.biovision.ch)
 <small>_JANUARY 2019 - APRIL 2019, ZÜRICH, ZIVILDIENST_</small>
 
 Through community service I am supporting the Advocacy and Policy team of Biovision in their preparations for the UN Climate Summit in Costa Rica.
+
+<br/>
 
 ### [gravity.global](https://gravity.global) - CTO
 <small>_APRIL 2018 - DECEMBER 2018, ZÜRICH_</small>
 
 I was the lead architect for GRAVITY software (a digital adoption tool) and the first point-of-contact for our global customer base. I mobilized and guided the company’s team of developers into action, whether that was implementing customized technical solutions or making strategic product improvements. In a startup spirit I took over product owner responsibility from the CEO and actively collected user impressions to improve our overall user experience.
 
+
+<br/>
+
 ### [mila.com](https://www.mila.com) - Software Engineer
 <small>_SEPTEMBER 2016 - MARCH 2018, ZÜRICH_</small>
 
 We developed a crowd service platform with AngularJS, Web technologies, Node.js, Cloud Computing and Microservice Architectures using Scrum. 
 Ad interim I took responsibility of the development team during the absence of a CTO taking care of daily business and project management tasks. I actively shaped  the next generation product and its architecture. 
+
+
+<br/>
 
 ### [fluance.ch](https://fluance.ch) - Software Developer
 <small>_APRIL 2015 - AUGUST 2016, SOLOTHURN_</small>
@@ -50,6 +59,9 @@ I worked on a patient aggregated web application with AngularJS, Web technologie
 
 ···
 <small>Visit my [LinkedIn](https://www.linkedin.com/in/meyerdominik/) to see what I was up to in this gap.</small>
+
+
+<br/>
 
 ### [soh.ch](https://so-h.ch) - Computer Scientist Apprentice
 <small>_AUGUST 2007 - JULY 2011, SOLOTHURN_</small>
