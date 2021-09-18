@@ -86,7 +86,7 @@ I look to contribute and learn more from the OpenSource community wherever I can
 ## 🛠 Skills
 
 ### 🔧 _Soft_
-I engage myself in cultural transformation since my early days. I am a developer advocate and strongly belief into [Our Iceberg Is Melting](https://www.amazon.com/Our-Iceberg-Melting-Succeeding-Conditions/dp/0399563911). Everyday I try to learn and improve myself and my surroundings adhering to the [The 15 Commitments of Conscious Leadership](https://conscious.is/15-commitments). My strengths in these waters are:
+Cultural transformation is a passion of mine since my early days. I am a developer advocate and strongly believe into [Our Iceberg Is Melting](https://www.amazon.com/Our-Iceberg-Melting-Succeeding-Conditions/dp/0399563911). Everyday I try to learn and improve myself and my surroundings adhering to the [The 15 Commitments of Conscious Leadership](https://conscious.is/15-commitments). My strengths in these waters are:
 
 - **Developer**: I recognize and cultivate potential in others
 - **Communicator**:I speak up and put thoughts into words
