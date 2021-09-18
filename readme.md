@@ -24,14 +24,14 @@ asdfsdfasdf
 #### Product Team Lead 
 <small>_MAY 2019 - MARCH 2020, ZÜRICH & REMOTE_</small>
 
-Supporting the customer end to end was our vision with the new product I was hired for to develop. Me and two partners were in charge of three teams that should link different products in an orchestration layer, allowing customers to build workflows across applications - retaining the context. With a reorganization, the vision found its end but I left an impression and was encouraged to take my next role.
+asdfasdfasdf
 
 <br/>
 
 ### [biovision.ch](https://www.biovision.ch)
 <small>_JANUARY 2019 - APRIL 2019, ZÜRICH, ZIVILDIENST_</small>
 
-Through community service I am supporting the Advocacy and Policy team of Biovision in their preparations for the UN Climate Summit in Costa Rica.
+Through community service I was supporting the Advocacy and Policy team of Biovision in their preparations for the UN Climate Summit in Costa Rica.
 
 <br/>
 
