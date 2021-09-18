@@ -14,7 +14,7 @@ Hi, I am _Dominik_ 👨🏽‍💻
 
 ## 💻 Experience
 
-What I am or have been working on...
+What I am or have been working on.
 
 ### [sap.com](https://www.sap.com)
 #### Head of Engineering for [SAP Field Service Management](https://www.sap.com/products/field-service-management.html)
@@ -111,3 +111,10 @@ I live by [the DevOps handbook](https://www.amazon.com/DevOps-Handbook-World-Cla
 ## 🙊 References
 
 References are provided upon request, [contact me](#contact) for it. You can also find some recommendation on [LinkedIn](https://www.linkedin.com/in/meyerdominik/).
+
+---
+<br/>
+
+**About my resume as code**
+
+Why such an _ugly_ PDF as your resume? As I wrote above I try to always live and lead by example and therefor I strive to have `x-as-code` (everything) - as per the [DevOps handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002). It is therefor natural for me to maintain my resume as code as well. I invite you to check the [online version](https://mambax.github.io/mambax/) of them for a nicer, more cloud-native look and feel 😉
