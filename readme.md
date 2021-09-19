@@ -22,7 +22,7 @@ Hi, I am Dominik 👨🏽‍💻
 
 Since you can't buy DevOps or its mindset, it is our task to accompany our two-pizza teams' journeys thereto. With a team of five we strive to enable all of our 100+ engineers to live DevOps. Nex to shaping the self-service platform with tools like Kubernetes, our main focus is on knowledge sharing, dev-talking, documenting and guiding people within the [labyrinth](https://landscape.cncf.io/) of tools a DevOps engineer needs. I would summarize our team as _the Ops liaison_ from the [the DevOps handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002).
 
-We setup 24/7 monitoring of our application primarily from EMEA using a variant of [Googles SRE](https://sre.google/) called _SRE Tridems_ (because it consists of triplets of engineers). After having mitigated availability concerns in 2020, we focus on transforming our click- and ticket-driven infrastructure to _Infrastructure As Code_ — namely Bamboo to GitHub Actions and ArgoCD, as well as PagerDuty, our GitHub Enterprise Organization or LaunchDarkly to `x-as-code` with Terraform. We have set up internal `sig`s — Special Interest Groups — to eagerly share knowledge as well as to build and nurture the culture around these setups, so that the engineers can self-serve themselves within the DevOps ∞.
+We set up 24/7 monitoring of our application primarily from EMEA using a variant of [Googles SRE](https://sre.google/) called _SRE Tridems_ (because it consists of triplets of engineers). After having mitigated availability concerns in 2020, we focus on transforming our click- and ticket-driven infrastructure to _Infrastructure As Code_ — namely Bamboo to GitHub Actions and ArgoCD, as well as PagerDuty, our GitHub Enterprise Organization or LaunchDarkly to `x-as-code` with Terraform. We have set up internal `sig`s — Special Interest Groups — to eagerly share knowledge as well as to build and nurture the culture around these setups, so that the engineers can self-serve themselves within the DevOps ∞.
 
 <br/>
 
@@ -158,4 +158,4 @@ References are provided upon [request](#contact). You can also find some recomme
 
 <br/>
 
-You can always find the latest resume with cover [here](https://github.com/mambax/mambax/blob/gh-pages/pdf/resume-with-cover.pdf). They get built with [GitHub Actions](https://github.com/mambax/mambax/blob/gh-pages/.github/workflows/publish-pdf.yml).
+You can always find the latest resume with cover [here <small>(Artifacts)</small>](https://github.com/mambax/mambax/actions/workflows/publish-pdf.yml). They get built with [GitHub Actions](https://github.com/mambax/mambax/blob/gh-pages/.github/workflows/publish-pdf.yml).

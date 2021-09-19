@@ -8,52 +8,54 @@ jobs:
     runs-on:
       - ubuntu-latest
     steps:
-      - run: google-chrome --headless --disable-gpu --print-to-pdf=resume.pdf --print-to-pdf-no-header https://mambax.github.io/mambax/
-      - uses: actions/upload-artifact@v2
-        with:
-          name: resume
-          path: resume.pdf
-
-  combine:
-    needs: 
-      - generate
-    runs-on:
-      - ubuntu-latest
-    container:
-      image: mnuessler/pdftk
-    steps:
       - uses: actions/checkout@v2
-      - uses: actions/download-artifact@v2
-        with:
-          name: resume
-          path: _resume
-      - run: pdftk pdf/cover.pdf _resume/resume.pdf cat output resume-with-cover.pdf
+      - run: google-chrome --headless --disable-gpu --print-to-pdf=resume.pdf --print-to-pdf-no-header https://mambax.github.io/mambax/
+      - run: gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -dAutoRotatePages=/None -sOutputFile=resume-with-cover.pdf pdf/cover.pdf _resume/resume.pdf
       - uses: actions/upload-artifact@v2
         with:
           name: resume-with-cover
           path: resume-with-cover.pdf
+  
+  # combine:
+  #   needs: 
+  #     - generate
+  #   runs-on:
+  #     - ubuntu-latest
+  #   container:
+  #     image: mnuessler/pdftk
+  #   steps:
+  #     - uses: actions/checkout@v2
+  #     - uses: actions/download-artifact@v2
+  #       with:
+  #         name: resume
+  #         path: _resume
+  #     - run: pdftk pdf/cover.pdf _resume/resume.pdf cat output resume-with-cover.pdf
+  #     - uses: actions/upload-artifact@v2
+  #       with:
+  #         name: resume-with-cover
+  #         path: resume-with-cover.pdf
 
-  publish:
-    needs:
-      - combine
-    runs-on:
-      - ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: actions/download-artifact@v2
-        with:
-          name: resume-with-cover
-          path: _resume
+  # publish:
+  #   needs:
+  #     - combine
+  #   runs-on:
+  #     - ubuntu-latest
+  #   steps:
+  #     - uses: actions/checkout@v2
+  #     - uses: actions/download-artifact@v2
+  #       with:
+  #         name: resume-with-cover
+  #         path: _resume
 
-      - name: Commit files
-        run: |
-          cp _resume/resume-with-cover.pdf pdf
-          git config --local user.email "${{ github.run_id }}+github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add pdf/*
-          git commit -m "Add latest resume"
-      - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+  #     - name: Commit files
+  #       run: |
+  #         cp _resume/resume-with-cover.pdf pdf
+  #         git config --local user.email "${{ github.run_id }}+github-actions[bot]@users.noreply.github.com"
+  #         git config --local user.name "github-actions[bot]"
+  #         git add pdf/*
+  #         git commit -m "Add latest resume"
+  #     - name: Push changes
+  #       uses: ad-m/github-push-action@v0.6.0
+  #       with:
+  #         github_token: ${{ secrets.GITHUB_TOKEN }}
+  #         branch: ${{ github.ref }}
