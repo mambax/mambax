@@ -6,12 +6,26 @@ on:
 jobs:
   generate:
     runs-on:
-      - macos-latest
+      - ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - run: '"/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome" --headless --disable-gpu --print-to-pdf=resume.pdf --print-to-pdf-no-header https://mambax.github.io/mambax/'
-      - run: '"/System/Library/Automator/Combine PDF Pages.action/Contents/Resources/join.py" -o resume-with-cover.pdf pdf/cover.pdf resume.pdf'
+      - run: google-chrome --headless --disable-gpu --print-to-pdf=resume.pdf --print-to-pdf-no-header https://mambax.github.io/mambax/
       - uses: actions/upload-artifact@v2
         with:
           name: resume
-          path: resume*.pdf
+          path: resume.pdf
+
+  combine:
+    runs-on:
+      - ubuntu-latest
+    container:
+      image: mnuessler/pdftk
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/download-artifact@v2
+        with:
+          name: resume
+      - run: pdftk pdf/cover.pdf resume/resume.pdf cat output resume-with-cover.pdf
+      - uses: actions/upload-artifact@v2
+        with:
+          name: resume-with-cover
+          path: resume-with-cover.pdf
