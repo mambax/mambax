@@ -146,3 +146,7 @@ I live by [the DevOps handbook](https://www.amazon.com/DevOps-Handbook-World-Cla
 ## 🙊 References
 
 References are provided upon request, [contact me](#contact) for it. You can also find some recommendations  on [LinkedIn](https://www.linkedin.com/in/meyerdominik/).
+
+---
+
+You can always find the latest resume with cover [here](https://github.com/mambax/mambax/blob/gh-pages/pdf/resume-with-cover.pdf). They get build with [GitHub Actions](https://github.com/mambax/mambax/blob/gh-pages/.github/workflows/publish-pdf.yml).
