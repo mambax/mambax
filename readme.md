@@ -16,14 +16,6 @@ Hi, I am Dominik 👨🏽‍💻
 <br/>
 
 ## 💻 Experience
-
-### [abbts.ch](https://www.abbts.ch) - Part-time Lecturer
-<small>_APRIL 2019 - present, BADEN & REMOTE_</small>
-
-Bringing my everyday knowledge from Software Engineering back to two lectures, Software Design and Testing. Using DevOps as a guiding thread - together with other lecturers - I shape e-profile engineers that can build a production-grade application after 18 months of part-time study. Find my materials in [projects](#-projects).
-
-<br/>
-
 ### [sap.com](https://www.sap.com)
 #### Head of Engineering [SAP Field Service Management](https://www.sap.com/products/field-service-management.html)
 <small>_APRIL 2020 - present, ZÜRICH & REMOTE_</small>
@@ -38,6 +30,14 @@ We setup 24/7 monitoring of our application primarily from Europe using a varian
 <small>_MAY 2019 - MARCH 2020, ZÜRICH & REMOTE_</small>
 
 Basing on the [`Window.postMessage()`](https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage) interface we leveraged [SAP Luigi](https://github.com/SAP/luigi) to develop cross-application framework that would transfer context between different everyday applications of [SAP Field Service Management](https://www.sap.com/products/field-service-management.html) users to ease up their flow and eradicate the need for the clipboard or worse, hand written notebooks. We went to observe customers, noted down where they would break their flow to lookup something somewhere and closed this experience gap.
+
+<br/>
+
+
+### [abbts.ch](https://www.abbts.ch) - Part-time Lecturer
+<small>_APRIL 2019 - present, BADEN & REMOTE_</small>
+
+Applying my Software Engineering knowledge to two lectures, Software Design and Testing. Using DevOps as a guiding thread I - together with other lecturers - shape E-profile engineers that can build a production-grade application after 18 months of part-time study. Find my materials in [projects](#-projects).
 
 <br/>
 
