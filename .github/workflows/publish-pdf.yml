@@ -27,9 +27,20 @@ jobs:
         with:
           name: resume
           path: _resume
-      - run: ls && ls _resume
       - run: pdftk pdf/cover.pdf _resume/resume.pdf cat output resume-with-cover.pdf
       - uses: actions/upload-artifact@v2
         with:
           name: resume-with-cover
           path: resume-with-cover.pdf
+      - name: Commit files
+        run: |
+          cp resume-with-cover.pdf pdf
+          git config --local user.email "${{ github.run_id }}+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add resume/resume-with-cover.pdf
+          git commit -m "Add latest"
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
