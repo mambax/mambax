@@ -15,7 +15,7 @@ Hi, I am Dominik 👨🏽‍💻
 
 <br/>
 
-## 💻 Experience
+## Experience
 ### [sap.com](https://www.sap.com)
 #### Head of Engineering [SAP Field Service Management](https://www.sap.com/products/field-service-management.html)
 <small>_APRIL 2020 - present, ZÜRICH & REMOTE_</small>
@@ -71,11 +71,7 @@ I worked on a patient aggregated web application with AngularJS, Web technologie
 
 ···
 
-<br/>
-
 _served my time in the 🪖 army and 🎒 studied Computer Science at the university_
-
-<br/>
 
 ···
 
@@ -88,7 +84,7 @@ My apprenticeship as a computer scientist, subject area ‘Systems technology’
 
 <br/>
 
-## 📽 Projects
+## Projects
 
 |Project|Content|My role
 |-|-|-
@@ -96,7 +92,7 @@ My apprenticeship as a computer scientist, subject area ‘Systems technology’
 |JavaFX HeatMap API|Bachelor thesis - visualization of interactions and user behaviour with heatmaps|User Experience, JavaFX
 |Computer Aided Tournament Support |Preparation for thesis - tournament support software to replace individual schedules|Java, ZigBee Protocol, Arduino, Web technologies
 
-### 📖 OpenSource
+### OpenSource
 [![Dominiks's GitHub stats](https://github-readme-stats.vercel.app/api?username=mambax&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;[![Source Karma badge for @mambax](https://sourcekarma-og.vercel.app/api/mambax/github)](https://sourcekarma.vercel.app/mambax)<br/><a href="https://stackexchange.com/users/3209761"><img src="https://stackexchange.com/users/flair/3209761.png?theme=dark" width="208" height="58" alt="profile for mambax on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for mambax on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 Many of my contributions go towards the [material I create for teaching](https://github.com/nds-swe).
@@ -105,8 +101,8 @@ I look to contribute and learn more from the OpenSource community wherever I can
 
 <br/>
 
-## 🛠 Skills
-### 🔧 _Soft_
+## Skills
+### Soft
 Cultural transformation is a passion of mine since my early days. I am a developer advocate and strongly believe into [Our Iceberg Is Melting](https://www.amazon.com/Our-Iceberg-Melting-Succeeding-Conditions/dp/0399563911). Every day I try to learn and improve myself and my surroundings adhering to the [the 15 Commitments of Conscious Leadership](https://conscious.is/15-commitments). My strengths in these areas are:
 
 - **Developer**: I recognize and cultivate potential in others
@@ -117,7 +113,7 @@ Cultural transformation is a passion of mine since my early days. I am a develop
 
 <br/>
 
-### 🔨 _Hard_
+### Hard
 I live by [the DevOps handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002) and thus my hard skills are shaped around it.
 
 |Phase|Skills
@@ -135,7 +131,7 @@ I live by [the DevOps handbook](https://www.amazon.com/DevOps-Handbook-World-Cla
 
 <br/>
 
-## 🏖 Off-premise
+## Off-premise
 
 - 🧘🏽‍♂️ Yoga & Meditation
 - 🤝🏿 Mentorship for the [Swiss Red Cross](https://www.redcross.ch/de/jugend)
@@ -148,7 +144,7 @@ I live by [the DevOps handbook](https://www.amazon.com/DevOps-Handbook-World-Cla
 
 <br/>
 
-## 🙊 References
+## References
 
 References are provided upon [request](#contact). You can also find some recommendations on [LinkedIn](https://www.linkedin.com/in/meyerdominik/).
 
@@ -158,4 +154,4 @@ References are provided upon [request](#contact). You can also find some recomme
 
 <br/>
 
-You can always find the latest resume with cover [here <small>(Artifacts)</small>](https://github.com/mambax/mambax/actions/workflows/publish-pdf.yml). They get built with [GitHub Actions](https://github.com/mambax/mambax/blob/gh-pages/.github/workflows/publish-pdf.yml).
+You can always find the latest resume with cover [here](https://github.com/mambax/mambax/actions/workflows/publish-pdf.yml) (Artifacts). They get built with [GitHub Actions](https://github.com/mambax/mambax/blob/gh-pages/.github/workflows/publish-pdf.yml).
