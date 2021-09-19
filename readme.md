@@ -154,4 +154,4 @@ References are provided upon [request](#contact). You can also find some recomme
 
 <br/>
 
-You can always find the latest resume with cover [here](https://github.com/mambax/mambax/actions/workflows/publish-pdf.yml) (Artifacts). They get built with [GitHub Actions](https://github.com/mambax/mambax/blob/gh-pages/.github/workflows/publish-pdf.yml).
+You can always find the latest resume with cover [here](https://github.com/mambax/mambax/actions/workflows/publish-pdf.yml) (Artifacts), built with [GitHub Actions](https://github.com/mambax/mambax/blob/gh-pages/.github/workflows/publish-pdf.yml).
