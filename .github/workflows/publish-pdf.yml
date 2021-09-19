@@ -1,0 +1,13 @@
+name: 🧾 Publish PDF
+
+on:
+  push:
+    branches:
+      - gh-pages
+
+jobs:
+  generate:
+    runs-on:
+      - ubuntu-latest
+    steps:
+      - run: which google-chrome
