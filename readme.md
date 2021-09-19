@@ -4,7 +4,7 @@ Hi, I am Dominik 👨🏽‍💻
 - 👨🏽‍💻 I am into code and DevOps (this is why my resume is code as well)
 - 💻 I currently work [@SAP](https://github.com/SAP) on [SAP Field Service Management](https://www.sap.com/products/field-service-management.html) as Head of Engineering
 - 👨🏽‍🏫 I currently teach [Software Engineering](https://github.com/nds-swe) [@ABB Technikerschule](https://www.abbts.ch/nachdiplomstudien/software-engineering/)
-- 🎒 I graduated 2015 from the _University of Applied Sciences Northwestern Switzerland_ with a BSc in Computer Science
+- 🎒 I graduated 2015 from the [University of Applied Sciences Northwestern Switzerland](https://www.fhnw.ch) with a BSc in Computer Science
 - ⚥&nbsp;&nbsp;I prefer _he/him_
 
 <br/>
@@ -20,24 +20,23 @@ Hi, I am Dominik 👨🏽‍💻
 #### Head of Engineering [SAP Field Service Management](https://www.sap.com/products/field-service-management.html)
 <small>_APRIL 2020 - present, ZÜRICH & REMOTE_</small>
 
-Since you can't buy DevOps or its mindset it is our task to accompany our two-pizza teams journeys thereto. With a team of five we strive to enable all of our 100+ engineers to live DevOps. Shaping the self-service platform with tools like Kubernetes is the smaller part of our work, our main efforts focus around knowledge sharing, devtalking, documenting and guiding people within this _labyrinth_ of tooling a DevOps engineer needs. I would summarize our team as _the Ops liaison_ from the [the DevOps handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002).
+Since you can't buy DevOps or its mindset, it is our task to accompany our two-pizza teams' journeys thereto. With a team of five we strive to enable all of our 100+ engineers to live DevOps. Nex to shaping the self-service platform with tools like Kubernetes, our main focus is on knowledge sharing, dev-talking, documenting and guiding people within the [labyrinth](https://landscape.cncf.io/) of tools a DevOps engineer needs. I would summarize our team as _the Ops liaison_ from the [the DevOps handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002).
 
-We setup 24/7 monitoring of our application primarily from Europe using a variant of [Googles SRE](https://sre.google/) called _SRE Tridems_ (because it consists of triplets of engineers). With the availability concerns mitigated in 2020 we focus on transforming our click- and ticket-driven infrastructure to _Infrastructure As Code_ - namely Bamboo to GitHub Actions and ArgoCD, PagerDuty, our GitHub Enterprise Organization or LaunchDarkly to `x-as-code` with Terraform. We have setup internal `sig`s - Special Interest Groups - to eagerly share knowledge as well as to build and nurture the culture around these setups, so that the engineers can self-service themselves within the DevOps ∞.
+We setup 24/7 monitoring of our application primarily from EMEA using a variant of [Googles SRE](https://sre.google/) called _SRE Tridems_ (because it consists of triplets of engineers). After having mitigated availability concerns in 2020, we focus on transforming our click- and ticket-driven infrastructure to _Infrastructure As Code_ — namely Bamboo to GitHub Actions and ArgoCD, as well as PagerDuty, our GitHub Enterprise Organization or LaunchDarkly to `x-as-code` with Terraform. We have set up internal `sig`s — Special Interest Groups — to eagerly share knowledge as well as to build and nurture the culture around these setups, so that the engineers can self-serve themselves within the DevOps ∞.
 
 <br/>
 
 #### Product Team Lead 
 <small>_MAY 2019 - MARCH 2020, ZÜRICH & REMOTE_</small>
 
-Basing on the [`Window.postMessage()`](https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage) interface we leveraged [SAP Luigi](https://github.com/SAP/luigi) to develop cross-application framework that would transfer context between different everyday applications of [SAP Field Service Management](https://www.sap.com/products/field-service-management.html) users to ease up their flow and eradicate the need for the clipboard or worse, hand written notebooks. We went to observe customers, noted down where they would break their flow to lookup something somewhere and closed this experience gap.
+Leveraging [SAP Luigi](https://github.com/SAP/luigi) we developed a cross-application framework that transfers context between  everyday applications of [SAP Field Service Management](https://www.sap.com/products/field-service-management.html). This eases up their flow and eradicates the need for the clipboard or worse, hand-written notebooks. We observed customers, noting recurrent interruptions in their workflow and closed these gaps.
 
 <br/>
-
 
 ### [abbts.ch](https://www.abbts.ch) - Part-time Lecturer
 <small>_APRIL 2019 - present, BADEN & REMOTE_</small>
 
-Applying my Software Engineering knowledge to two lectures, Software Design and Testing. Using DevOps as a guiding thread I - together with other lecturers - shape E-profile engineers that can build a production-grade application after 18 months of part-time study. Find my materials in [projects](#-projects).
+Using DevOps as a guiding thread, I give two lectures, Software Design and Software Testing. We shape E-profile engineers that can build a production grade application after 18 months of part-time study. Find my materials in [projects](#-projects).
 
 <br/>
 
@@ -51,17 +50,15 @@ Through community service I was supporting the Advocacy and Policy team of Biovi
 ### [gravity.global](https://gravity.global) - CTO
 <small>_APRIL 2018 - DECEMBER 2018, ZÜRICH_</small>
 
-I was the lead architect for GRAVITY software (a digital adoption tool) and the first point-of-contact for our global customer base. I mobilized and guided the company’s team of developers into action, whether that was implementing customized technical solutions or making strategic product improvements. In a startup spirit I took over product owner responsibility from the CEO and actively collected user impressions to improve our overall user experience.
-
+I was the lead architect for GRAVITY software (a digital adoption tool) and the first point-of-contact for our global customer base. I led the company’s team of developers through the initial development of the product, whether that was implementing customized technical solutions or making strategic improvements. In a startup spirit I took over product owner responsibility and actively collected user impressions to improve our overall user experience.
 
 <br/>
 
 ### [mila.com](https://www.mila.com) - Software Engineer
 <small>_SEPTEMBER 2016 - MARCH 2018, ZÜRICH_</small>
 
-We developed a crowd service platform with AngularJS, Web technologies, Node.js, Cloud Computing and Microservice Architectures using Scrum. 
-Ad interim I took responsibility of the development team during the absence of a CTO taking care of daily business and project management tasks. I actively shaped  the next generation product and its architecture. 
-
+We developed a crowd service platform with AngularJS, Web technologies, Node.js, Cloud Computing and a Microservice Architecture using Scrum. 
+Ad interim I took responsibility of the development team during the absence of the CTO, taking care of daily business and project management tasks. I actively shaped the next generation product and its architecture. 
 
 <br/>
 
@@ -70,16 +67,24 @@ Ad interim I took responsibility of the development team during the absence of a
 
 I worked on a patient aggregated web application with AngularJS, Web technologies and User Interaction Design using Scrum.
 
-···
-<small>Visit my [LinkedIn](https://www.linkedin.com/in/meyerdominik/) to see what I was up to in this gap.</small>
+<br/>
 
+···
+
+<br/>
+
+_served my time in the 🪖 army and 🎒 studied Computer Science at the university_
+
+<br/>
+
+···
 
 <br/>
 
 ### [soh.ch](https://so-h.ch) - Computer Scientist Apprentice
 <small>_AUGUST 2007 - JULY 2011, SOLOTHURN_</small>
 
-My apprenticeship as computer scientist, subject area ‘Systems technology’. I also worked in first-level-support, in systems technology, at the helpdesk and for the application support.
+My apprenticeship as a computer scientist, subject area ‘Systems technology’. I also worked in first-level-support, at the help-desk and for the application support.
 
 <br/>
 
@@ -88,7 +93,7 @@ My apprenticeship as computer scientist, subject area ‘Systems technology’. 
 |Project|Content|My role
 |-|-|-
 |[`nds-swe`](https://nds-swe.github.io/swdt/)|The [After-Diploma Study](https://www.abbts.ch/nachdiplomstudien/software-engineering/) in Software Engineering transforms individuals from any industry into capable Junior DevOps engineers.|I am the sole maintainer, leveraging Docusaurus, Reveal.JS and Java to live by example and slowly migrating all my teacher material to code - 👋🏽 PowerPoint and Word.
-|JavaFX HeatMap API|Bachelor thesis - visualisation of interactions and user behaviour with heatmaps|User Experience, JavaFX
+|JavaFX HeatMap API|Bachelor thesis - visualization of interactions and user behaviour with heatmaps|User Experience, JavaFX
 |Computer Aided Tournament Support |Preparation for thesis - tournament support software to replace individual schedules|Java, ZigBee Protocol, Arduino, Web technologies
 
 ### 📖 OpenSource
@@ -145,8 +150,12 @@ I live by [the DevOps handbook](https://www.amazon.com/DevOps-Handbook-World-Cla
 
 ## 🙊 References
 
-References are provided upon request, [contact me](#contact) for it. You can also find some recommendations  on [LinkedIn](https://www.linkedin.com/in/meyerdominik/).
+References are provided upon [request](#contact). You can also find some recommendations on [LinkedIn](https://www.linkedin.com/in/meyerdominik/).
+
+<br/>
 
 ---
 
-You can always find the latest resume with cover [here](https://github.com/mambax/mambax/blob/gh-pages/pdf/resume-with-cover.pdf). They get build with [GitHub Actions](https://github.com/mambax/mambax/blob/gh-pages/.github/workflows/publish-pdf.yml).
+<br/>
+
+You can always find the latest resume with cover [here](https://github.com/mambax/mambax/blob/gh-pages/pdf/resume-with-cover.pdf). They get built with [GitHub Actions](https://github.com/mambax/mambax/blob/gh-pages/.github/workflows/publish-pdf.yml).
