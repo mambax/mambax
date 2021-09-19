@@ -9,8 +9,7 @@ jobs:
       - macos-latest
     steps:
       - uses: actions/checkout@v2
-      - run: ls -la /Applications
-      - run: '"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome.app" --headless --disable-gpu --print-to-pdf=resume.pdf --print-to-pdf-no-header https://mambax.github.io/mambax/'
+      - run: '"/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome" --headless --disable-gpu --print-to-pdf=resume.pdf --print-to-pdf-no-header https://mambax.github.io/mambax/'
       - run: '"/System/Library/Automator/Combine PDF Pages.action/Contents/Resources/join.py" -o resume-with-cover.pdf pdf/cover.pdf resume.pdf'
       - uses: actions/upload-artifact@v2
         with:
