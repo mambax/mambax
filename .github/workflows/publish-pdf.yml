@@ -1,7 +1,7 @@
 name: 🧾 Publish PDF
 
 on:
-  workflow_dispatch:
+  page_build:
 
 jobs:
   generate:
@@ -32,12 +32,25 @@ jobs:
         with:
           name: resume-with-cover
           path: resume-with-cover.pdf
+
+  publish:
+    needs:
+      - combine
+    runs-on:
+      - ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/download-artifact@v2
+        with:
+          name: resume-with-cover
+          path: _resume
+
       - name: Commit files
         run: |
-          cp resume-with-cover.pdf pdf
+          cp _resume/resume-with-cover.pdf pdf
           git config --local user.email "${{ github.run_id }}+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add resume/resume-with-cover.pdf
+          git add resume/*
           git commit -m "Add latest"
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
