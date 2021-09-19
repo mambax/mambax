@@ -16,9 +16,17 @@ Hi, I am Dominik 👨🏽‍💻
 <br/>
 
 ## 💻 Experience
+
+### [abbts.ch](https://www.abbts.ch) - Part-time Lecturer
+<small>_APRIL 2019 - present, BADEN & REMOTE_</small>
+
+Bringing my everyday knowledge from Software Engineering back to two lectures, Software Design and Testing. Using DevOps as a guiding thread - together with other lecturers - I shape e-profile engineers that can build a production-grade application after 18 months of part-time study. Find my materials in [projects](#-projects).
+
+<br/>
+
 ### [sap.com](https://www.sap.com)
 #### Head of Engineering [SAP Field Service Management](https://www.sap.com/products/field-service-management.html)
-<small>_APRIL 2020 - PRESENT, ZÜRICH & REMOTE_</small>
+<small>_APRIL 2020 - present, ZÜRICH & REMOTE_</small>
 
 Since you can't buy DevOps or its mindset it is our task to accompany our two-pizza teams journeys thereto. With a team of five we strive to enable all of our 100+ engineers to live DevOps. Shaping the self-service platform with tools like Kubernetes is the smaller part of our work, our main efforts focus around knowledge sharing, devtalking, documenting and guiding people within this _labyrinth_ of tooling a DevOps engineer needs. I would summarize our team as _the Ops liaison_ from the [the DevOps handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002).
 
@@ -29,7 +37,7 @@ We setup 24/7 monitoring of our application primarily from Europe using a varian
 #### Product Team Lead 
 <small>_MAY 2019 - MARCH 2020, ZÜRICH & REMOTE_</small>
 
-To be rewritten.
+Basing on the [`Window.postMessage()`](https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage) interface we leveraged [SAP Luigi](https://github.com/SAP/luigi) to develop cross-application framework that would transfer context between different everyday applications of [SAP Field Service Management](https://www.sap.com/products/field-service-management.html) users to ease up their flow and eradicate the need for the clipboard or worse, hand written notebooks. We went to observe customers, noted down where they would break their flow to lookup something somewhere and closed this experience gap.
 
 <br/>
 
@@ -137,4 +145,4 @@ I live by [the DevOps handbook](https://www.amazon.com/DevOps-Handbook-World-Cla
 
 ## 🙊 References
 
-References are provided upon request, [contact me](#contact) for it. You can also find some recommendation on [LinkedIn](https://www.linkedin.com/in/meyerdominik/).
+References are provided upon request, [contact me](#contact) for it. You can also find some recommendations  on [LinkedIn](https://www.linkedin.com/in/meyerdominik/).
